@@ -36,7 +36,7 @@ const audio = new Audio("/static/roulette-wheel.mp3");
 
 const ctx = canvasEl.getContext("2d")!;
 
-const MAXIMUM_SIZE = 16;
+const MAXIMUM_SIZE = 18;
 const ROTATIONS = 20;
 const ANIMATION_FPS = 60;
 const WHEEL_OFFSET = 5;
